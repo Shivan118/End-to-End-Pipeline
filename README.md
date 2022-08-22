@@ -69,7 +69,7 @@ git remote -v
 To setup Ci/CD in Heroku we need 3 information
 
 1. HEROKU_EMAIL = shivan@ineuron.ai
-2. HEROKU_AIP_KEY = 523239b2-5b0a-447e-bc61-bdd7f88da5da
+2. HEROKU_AIP_KEY = 
 3. HEROKU_APP_NAME = starter-project-first
 
 BUILD DOCKER IMAGE
