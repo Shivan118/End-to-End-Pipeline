@@ -27,4 +27,32 @@ conda activate venv
 
 ```
 
+```
 pip install -r requirements.txt
+
+```
+
+To Add files to git
+```
+git add .
+```
+
+OR
+```
+git add <file_name>
+```
+Note: To ignore file or folder from git we can write name of file/folder in .gitignore file
+
+To Check the git status
+```
+git status
+```
+
+To check all version maintained by git
+```
+git log
+```
+To Create version/Commit all changes by git
+```
+git commit -m " Messaage "
+```
