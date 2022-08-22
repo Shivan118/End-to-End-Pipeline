@@ -8,3 +8,23 @@ This is Machine Leanrirng Project
 3. [VS Code IDE](https://code.visualstudio.com/Download)
 4. [GIT CLI](https://git-scm.com/downloads)
 
+Creating Conda Envronment
+```
+conda create -p venv python==3.7 -y
+
+```
+
+Activate Conda Envronment
+```
+conda activate venv/
+
+```
+
+OR 
+
+```
+conda activate venv
+
+```
+
+pip install -r requirements.txt
